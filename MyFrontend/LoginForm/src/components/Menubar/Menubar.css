@@ -1,0 +1,14 @@
+.logo{
+    margin-left: 25px;
+}
+.menubar-right{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+.active{
+    color: rgb(53, 53, 145) !important;
+}
+.dropdown-menu li{
+    cursor: pointer;
+}

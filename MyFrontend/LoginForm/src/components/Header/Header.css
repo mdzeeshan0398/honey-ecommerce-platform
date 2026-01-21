@@ -1,0 +1,11 @@
+.header{
+    padding: 5rem;
+    border-radius: 1rem;
+    margin-bottom: 1rem;
+    margin-top: 0.25rem;
+    color: white;
+    /* background-image: url("../../assets/acacia.png"); */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
